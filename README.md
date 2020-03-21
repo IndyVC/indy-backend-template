@@ -1,5 +1,14 @@
 # indy-backend-template
 NODEJS - Mongoose backend template
+Created repo using following commands:
+```
+npm init
+
+npm install mongoose etc.
+```
+
+Important to change the scripts in package.json!
+'npm run' + name of the script. 
 
 Deployed on heroku using the following commands:
 
